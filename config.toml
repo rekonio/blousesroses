@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'fr-fr'
 title = 'Les Blouses Roses sur Concarneau & Quimper'
-theme = hugo-scroll
+theme = 'hugo-scroll'
