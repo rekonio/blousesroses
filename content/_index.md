@@ -1,5 +1,5 @@
 ---
 header_image: "images/cover-image.jpg"
-header_headline: "Les Blouses Roses   Concarneau & Quimper"
-header_subheadline: "Nous intervenons ...."
+header_headline: "Le Comité des Blouses Roses"
+header_subheadline: "de Concarneau & Quimper"
 ---
