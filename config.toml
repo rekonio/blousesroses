@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://affectionate-khorana-8b2f78.netlify.app'
 languageCode = 'fr-fr'
 title = 'Les Blouses Roses sur Concarneau & Quimper'
 theme = 'hugo-scroll'
