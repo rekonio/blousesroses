@@ -4,4 +4,4 @@ weight: 3
 header_menu: true
 ---
 
-À faire.
+Voici [quelques photos des Blouses Roses en action](/galerie) sur Concarneau et Quimper!

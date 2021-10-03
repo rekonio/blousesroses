@@ -4,7 +4,7 @@ weight: 1
 header_menu: true
 ---
 
-_Les Blouses Roses_ sont une association nationale comprenant 90 comités en France. 
+_Les Blouses Roses_ sont [une association nationale](https://www.lesblousesroses.asso.fr/fr/) comprenant 90 comités en France.
 
 Nous intervenons en hôpital et en EHPAD pour l'animation et loisirs dans les services.
 

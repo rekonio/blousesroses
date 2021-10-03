@@ -4,4 +4,4 @@ weight: 2
 header_menu: true
 ---
 
-À faire.
+N'hésitez pas à visiter [le lien du site national des Blouses Roses](https://www.lesblousesroses.asso.fr/fr/devenir-benevole) pour vous renseigner sur le bénévolat.
