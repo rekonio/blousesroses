@@ -1,4 +1,22 @@
-baseURL = 'https://affectionate-khorana-8b2f78.netlify.app'
+baseURL = 'https://les-blouses-roses-concarneau-quimper.fr'
+
 languageCode = 'fr-fr'
+
+defaultContentLanguage = "fr"
+
 title = 'Les Blouses Roses sur Concarneau & Quimper'
+
 theme = 'hugo-scroll'
+
+
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+[params]
+    description = "Les Blouses Roses sur Concarneau & Quimper"
+
+    # These "images" are used for the structured data templates. This will show up, when
+    # services like Twitter or Slack want to generate a preview of a link to your site.
+    images = ["images/cover-image.jpg"]
+
+    [params.meta]
+        keywords = "blouses roses, concarneau, quimper, bénévolat, bénévole"
