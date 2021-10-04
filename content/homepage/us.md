@@ -8,7 +8,7 @@ _Les Blouses Roses_ sont [une association nationale](https://www.lesblousesroses
 
 Nous intervenons en hôpital et en EHPAD pour l'animation et loisirs dans les services.
 
-Notre comité Concarneau & Quimper de 32 bénévoles intervient à raison de 2/3 fois par semaine à:
+Notre comité Concarneau & Quimper de 32 bénévoles intervient à raison de 1 à 2 fois par semaine à:
 
 - Quimper
   - SSR - Rééducation
