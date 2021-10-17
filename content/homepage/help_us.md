@@ -8,4 +8,4 @@ En rejoignant notre association si vous avez du temps!
 
 En vous impliquant sans aller sur le terrain, si vous avez des compétences en informatique, finance, comptabilité, communication, etc.
 
-En faisant un don. Nous nous développons grace aux dons de particulier et d'entreprises.
+En faisant un don. Grâce aux dons des particuliers et d'entreprises.
